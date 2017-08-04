@@ -1,0 +1,99 @@
+* {
+  font-family: helvetica;
+}
+body {
+  background-color: rgb(244, 248, 249);
+  padding: 10px;
+}
+.main-container {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 7px;
+  font-size: 26px;
+  padding: 35px;
+  height: 216px;
+  width: 828px;
+}
+.profile-photo {
+  float: left;
+}
+.account-logo {
+  position: absolute;
+  left: 144px;
+}
+.user-name {
+  font-size: 30px;
+  font-weight: 900;
+  padding-left: 110px;
+}
+.validated-account {
+  position: absolute;
+  left: 230px;
+  top: 55px;
+}
+.user-account {
+  color: rgb(104, 109, 129);
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+  left: 13px;
+  top: 5px;
+}
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 29px;
+  position: absolute;
+  top: 152px;
+}
+.date {
+  color: rgb(101, 116, 127);
+  position: absolute;
+  top: 194px;
+}
+.bottom-text {
+  color: rgb(105, 120, 130);
+}
+.rt-num {
+  position:absolute;
+  top: 243px;
+  left: 168px;
+}
+.fave-num {
+  position:absolute;
+  top: 244px;
+  left: 313px;
+}
+button {
+  position: absolute;
+  left: 715px;
+  top: 56px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(85, 172, 238);
+  border-radius: 7px;
+  color: rgb(85, 172, 238);
+  font-size: 25px;
+  font-weight: bolder;
+  height: 58px;
+  width: 166px;
+  padding-left: 43px;
+}
+.twitter-bird {
+  position: absolute;
+  top: 70px;
+  left: 739px;
+}
+.reply {
+  position: absolute;
+  top: 247px;
+  left: 55px;
+}
+.retweet {
+  position: absolute;
+  top: 247px;
+  left: 122px;
+}
+.favorite {
+  position: absolute;
+  top: 247px;
+  left: 277px;
+}
